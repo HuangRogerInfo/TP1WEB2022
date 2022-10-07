@@ -1,0 +1,10 @@
+ul#menu li {
+    display:inline;
+}
+
+label{
+    font-weight: bold;
+}
+#red{
+    color: red;
+}
